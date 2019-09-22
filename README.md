@@ -19,4 +19,4 @@ Photo - linear
 
 #### In Examples->Basic->Fading the LED values range from 0-255. What do you have to do so that you get the full range of output voltages from the LED when using your FSR to change the LED color?
 
-(Code)[https://github.com/sl2883/device-lab3/blob/master/FSRRande.ino]
+[Code](https://github.com/sl2883/device-lab3/blob/master/FSRRande.ino)
