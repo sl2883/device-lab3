@@ -11,12 +11,21 @@
 
 #### What kind of relationship does the voltage have as a function of the force applied? (e.g., linear?)
 
-FSR- logorithmic. Goes up as soon as you touch it, but then it doesn't
+Logorithmic. Goes up as soon as you touch it, but then it doesn't
+
+#### In Examples->Basic->Fading the LED values range from 0-255. What do you have to do so that you get the full range of output voltages from the LED when using your FSR to change the LED color?
+
+[Code](https://github.com/sl2883/device-lab3/blob/master/FSRRande.ino)
+
+#### a. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?
+
+#### b. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)
+
+FSR- Logorithmic
 
 Flex Sensor-Linear
 
 Photo - linear
 
-#### In Examples->Basic->Fading the LED values range from 0-255. What do you have to do so that you get the full range of output voltages from the LED when using your FSR to change the LED color?
-
-[Code](https://github.com/sl2883/device-lab3/blob/master/FSRRande.ino)
+#### a. Include your accelerometer read-out code in your write-up.
+[Code](https://github.com/sl2883/device-lab3/blob/master/Acce.ino)
