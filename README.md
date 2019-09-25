@@ -29,3 +29,6 @@ Photo - linear
 
 #### a. Include your accelerometer read-out code in your write-up.
 [Code](https://github.com/sl2883/device-lab3/blob/master/Acce.ino)
+
+#### a. Modify the example code so that you can print out the output of the A0 pin. Include your code in your lab report.
+[Code](https://github.com/sl2883/device-lab3/blob/master/acceDisplay.ino)
