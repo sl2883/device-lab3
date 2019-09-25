@@ -32,3 +32,15 @@ Photo - linear
 
 #### a. Modify the example code so that you can print out the output of the A0 pin. Include your code in your lab report.
 [Code](https://github.com/sl2883/device-lab3/blob/master/acceDisplay.ino)
+
+#### a. Does it matter what actions are assigned to which state? Why?
+It depends. If instead of a potentiometer, we have had another switch to select different states, the actions assigned to state wouldn't matter. In this case, if "Read" state is not inbetween the other two, we'd either read only 0 values or read only assigned values. We won't be able to have the read work for both states. 
+So, it matters if we can't change the input method.
+
+#### c. How many byte-sized data samples can you store on the Atmega328?
+1024
+
+#### d. How would you get analog data from the Arduino analog pins to be byte-sized? How about analog data from the I2C devices?
+
+#### e. Alternately, how would we store the data if it were bigger than a byte? (hint: take a look at the EEPROMPut example)
+
