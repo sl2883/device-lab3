@@ -63,3 +63,4 @@ Put method handles custom structures to be stored in EPROM.
   
   #### a. Record and upload a short demo video of your logger in action.
   [Video](https://www.youtube.com/watch?v=Y_kOCBv0BXU)
+  [Code] (https://github.com/sl2883/device-lab3/tree/master/part%203)
