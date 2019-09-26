@@ -62,4 +62,4 @@ Put method handles custom structures to be stored in EPROM.
   <img src="https://i.imgur.com/mNmTwTF.jpg" width="50%" height="50%">
   
   #### a. Record and upload a short demo video of your logger in action.
-  [Video](https://youtu.be/yy2CMOr-vwY)
+  [Video](https://www.youtube.com/watch?v=Y_kOCBv0BXU)
