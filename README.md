@@ -30,6 +30,7 @@ Photo - linear
 
 #### a. Include your accelerometer read-out code in your write-up.
 <img src="https://i.imgur.com/CEYKDKY.jpg" width="50%" height="50%">
+
 [Video](https://www.youtube.com/watch?v=LSskC7kp_eE)
 
 [Code](https://github.com/sl2883/device-lab3/blob/master/Acce.ino)
