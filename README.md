@@ -31,6 +31,7 @@ Photo - linear
 #### a. Include your accelerometer read-out code in your write-up.
 <img src="https://i.imgur.com/CEYKDKY.jpg" width="50%" height="50%">
 [Video](https://www.youtube.com/watch?v=LSskC7kp_eE)
+
 [Code](https://github.com/sl2883/device-lab3/blob/master/Acce.ino)
 
 #### a. Modify the example code so that you can print out the output of the A0 pin. Include your code in your lab report.
@@ -68,4 +69,5 @@ Put method handles custom structures to be stored in EPROM.
   
   #### a. Record and upload a short demo video of your logger in action.
   [Video](https://www.youtube.com/watch?v=Y_kOCBv0BXU)
-  [Code] (https://github.com/sl2883/device-lab3/tree/master/part%203)
+  
+  [Code](https://github.com/sl2883/device-lab3/tree/master/part%203)
