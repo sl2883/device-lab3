@@ -15,20 +15,22 @@
 Logorithmic. Goes up as soon as you touch it, but then it doesn't
 
 #### In Examples->Basic->Fading the LED values range from 0-255. What do you have to do so that you get the full range of output voltages from the LED when using your FSR to change the LED color?
-
 [Code](https://github.com/sl2883/device-lab3/blob/master/FSRRande.ino)
 
 #### a. What resistance do you need to have in series to get a reasonable range of voltages from each sensor?
 
 #### b. What kind of relationship does the resistance have as a function of stimulus? (e.g., linear?)
 
-FSR- Logorithmic
+FSR- Logorithmic 
+[Video](https://www.youtube.com/watch?v=rxrYWa8p5I8)
 
 Flex Sensor-Linear
 
 Photo - linear
 
 #### a. Include your accelerometer read-out code in your write-up.
+<img src="https://i.imgur.com/CEYKDKY.jpg" width="50%" height="50%">
+[Video](https://www.youtube.com/watch?v=LSskC7kp_eE)
 [Code](https://github.com/sl2883/device-lab3/blob/master/Acce.ino)
 
 #### a. Modify the example code so that you can print out the output of the A0 pin. Include your code in your lab report.
@@ -57,6 +59,9 @@ Put method handles custom structures to be stored in EPROM.
 
   eeAddress += sizeof(float);
   EEPROM.put(eeAddress, customVar);
+  
+  #### Eprom
+<img src="https://i.imgur.com/h2kMrXj.jpg" width="50%" height="50%">
   
   #### a. Turn in a copy of your final state diagram.
   <img src="https://i.imgur.com/mNmTwTF.jpg" width="50%" height="50%">
