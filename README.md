@@ -1,5 +1,6 @@
 # device-lab3
 
+
 #### a. Based on the readings from the serial monitor, what is the range of the analog values being read?
 0-1000
 
@@ -42,6 +43,8 @@ So, it matters if we can't change the input method.
 
 #### d. How would you get analog data from the Arduino analog pins to be byte-sized? How about analog data from the I2C devices?
 
+A byte is ranged 0-255. The analog data that we get is upto 1023. So, we'll split 1024 to four parts and store that to eprom. I2C devices are sending 1 byte of data.
+
 #### e. Alternately, how would we store the data if it were bigger than a byte? (hint: take a look at the EEPROMPut example)
 Put method handles custom structures to be stored in EPROM.
 
@@ -55,4 +58,8 @@ Put method handles custom structures to be stored in EPROM.
   eeAddress += sizeof(float);
   EEPROM.put(eeAddress, customVar);
   
+  #### a. Turn in a copy of your final state diagram.
+  <img src="https://i.imgur.com/mNmTwTF.jpg" width="50%" height="50%">
   
+  #### a. Record and upload a short demo video of your logger in action.
+  [Video](https://youtu.be/yy2CMOr-vwY)
